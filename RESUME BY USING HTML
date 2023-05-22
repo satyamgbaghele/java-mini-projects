@@ -1,1 +1,168 @@
-# java-mini-projects
+<!DOCTYPE html>
+<html>
+<head><title>RESUME</title>
+	<h1 style="font-family:Arial black;text-align: center;">RESUME</h1>
+</head>
+<body>
+<p style="font-size:100%; text-align:left;"><strong>Name : </strong>Baghele Satyam Gajanan <br></p>
+<p style="font-size:100%; text-align:left;"><strong>Contact :</strong>8007612960 
+<p style="font-size:100%; text-align:left;"><strong>Email :</strong> satyambaghele2019@gmail.com<br></p>
+<p> <strong> <h1 style="font-family:Arial black;">Professional Summary:</h1></strong>
+ <ul type="square">     
+ <li> Fresher who is looking for better opportunity in Development.</li>
+
+<li>  Hands-On practice in Core Java and Advance Java.</li>
+
+<li> Hands on experience of object-oriented concepts like Encapsulation, Abstraction,Polymorphism and Inheritance, Junit.</li>
+
+<li> Have excellent knowledge on business core concept of core java implementations:</li>
+
+<li>  Good Understanding of JDBC along with Statement and PreparedStatement.</li>
+ 
+<li>  Hands on experience on Java Keywords like-static, final, abstract.</li>
+
+<li>  Have excellent knowledge of Exception-Handling, Thread, J2EE and JSP.</li>
+
+<li>  Good practical knowledge of Arrays and Collections like List, Set, Map</li>
+
+<li>  Having good knowledge of project Structure-Controller - Service - Dao. </li>
+
+<li>  Expert in troubleshooting and error resolver. Excellent communication, strong analytical skills, problem solving  and    organizational abilities.</li> 
+
+ <li> Have excellent working knowledge of Spring Core, Spring MVC, Spring boot, Hibernate, Spring AOP, JSP-Servlet, Rest Webservices, Microservice Architecture.</li>
+
+ <li> Good knowledge on Criteria with Restrictions and Projections in Hibernate.</li> 
+
+<li>  Understanding with writing Junit Test cases for controller and Service layer.</li>
+
+ <li> Quick in grasping and always keen to learn new aspects.</li>
+</ul>
+<strong style="font-family:Arial black;"><h1><b>Skills :</b></h1></strong><br>
+<table border="5%"width="100%"hight="50px">
+      <tr>
+            <th>Oprating System</th>
+            <td>Windows</td>
+      </tr>
+      <tr>
+            <th>Languages</th>
+            <td>Java</td>
+      </tr>
+      <tr>
+            <th>Database </th>
+            <td>MySQL, Oracle</td>
+      </tr>
+      <tr>
+            <th>Web Related</th>
+            <td>HTML, JSP, CSS</td>
+      </tr>
+      <tr>
+            <th>Tools & Utilities</th>
+            <td>STS, Eclipse, Maven, Spring Initializr</td>
+      </tr>
+      <tr>
+            <th>Servers </th>
+            <td>Tomcat Server</td>
+      </tr>
+      <tr>
+            <th>Frameworks</th>
+            <td>Collection, Exception, Spring, Spring-boot, Hibernate</td>
+      </tr>
+      <tr>
+            <th>Technologies</th>
+            <td>JDBC</td>
+      </tr>
+</table>
+</p>
+
+<!DOCTYPE html>
+<!-- saved from url=(0065)file:///C:/Users/satya/OneDrive/Documents/word%20doc/resume2.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	<title>RESUME</title>
+</head>
+<body>
+	<h1>Professional Experience : 1</h1>
+	<h2>Course Project</h2>
+	<h3 style="font-family:Arial black;text-align:right;">From May 2023</h3>
+	<p style="font-size:100%;">
+		<strong>Project : </strong> college Management System<br>
+		<strong>Role :</strong> Development<br>
+		<strong>Cient :</strong> Self learning<br>
+		<strong>Technology Stack :</strong> java 8 ,Spring boot , Hibernate<br>
+	</p>
+	<h2>Description :</h2>
+	
+    <ul type="square">
+     	<li>College hierarchy Structure</li>
+     	<li>Student Module</li>
+     	<li>Teacher Module</li>
+      <li>Non Teaching Staff</li>
+    </ul>
+    <h2>Responsibilities :</h2>
+
+    <ul type="square">
+    	<li> Analyzing the Requirement and writing core java code for required functionality. </li>
+    	<li> Actively in the discussion with Friends team and mentor for project / story
+             understanding.</li>
+    	<li> Following company standards for code writing. </li>
+    	<li> Creation of rest API for CURD operation.</li>
+    	<li> Completing the daily tasks assigned by mentor and team discussion.</li>
+    	<li>  Interaction with mentor for issue and risk.</li>
+    </ul>
+    <h2>Trainings : </h2>
+    <table border="10" width="100%" hight="100%" cellpading="" cellspacing="5">
+    <tbody><tr>
+    	<th>S No.</th>
+    	<th>Title</th>
+    	<th>Location</th>
+    	<th>Institute / Organized By</th>
+    	<th>Duration</th>
+    </tr>
+    <tr>
+    	<td>1</td>
+    	<td>Core java </td>
+    	<td>pune</td>
+    	<td>The Kiran Academy</td>
+    	<td>2 Month</td>
+    </tr>
+    <tr>
+    	<td>2</td>
+    	<td>Advance java</td>
+    	<td>pune</td>
+    	<td>The Kiran Academy</td>
+    	<td>2 Month</td>
+
+     </tr>
+    <tr>
+    	<td>3</td>
+    	<td>HTML CSS</td>
+    	<td>pune</td>
+    	<td>The Kiran Academy</td>
+    	<td>2 Month</td>
+    </tr>
+    	<tr><td>4</td>
+    	<td>Angular</td>
+    	<td>pune</td>
+    	<td>The Kiran Academy</td>
+    	<td>2 Month</td>
+    </tr></tbody></table>
+    <h2>Education :</h2>
+    <table border="10" width="100%" hight="100%" cellpading="" cellspacing="5">
+    	<tbody><tr>
+            <th>Degree</th>
+            <th>University</th>
+            <th>Year Of Passing</th>
+            <th>Score</th>
+
+    	</tr>
+    	<tr>
+    		<td>Bachelor of Science(CS)</td>
+    		<td>Rashtrasant Tukadoji Maharaj Nagpur University</td>
+    		<td>2022</td>
+    		<td>64.80</td>
+    	</tr>
+    	
+    </tbody></table>
+
+
+</body></html>
+</body>
